@@ -93,9 +93,9 @@ To be able to test the Bicep file follow these steps:
 
 > [!TIP]
 > Read more about Microsoft Security DevOps GitHub action with IaC
-> [](https://github.com/aquasecurity/trivy)
-> [](https://github.com/bridgecrewio/checkov)
-> [](https://github.com/Azure/template-analyzer)
+> [Trivy](https://github.com/aquasecurity/trivy)
+> [Checkov](https://github.com/bridgecrewio/checkov)
+> [Template Analyzer](https://github.com/Azure/template-analyzer)
 
 
 ## Demo Defender for Resource Manager
